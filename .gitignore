@@ -4,6 +4,10 @@
 # Log file
 *.log
 
+# SÒ PARA TESTE DA AULA
+*.txt
+
+
 # BlueJ files
 *.ctxt
 
